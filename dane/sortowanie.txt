@@ -1,0 +1,30 @@
+SORTOWANIE
+
+LEO   200-2000km  e<0.1
+
+MEO   2000-35786 km e<0.1
+
+GEO   35786 - 40000km e<0.1
+
+HEO   200-40000 km e>0.1
+
+
+PROPAGACJA
+-1 z propagatorow
+	tle (SGP4? / TLEpropagator / całkowanie numeryczne(TLE->kepler osc (czy orekit zamienia na osc))
+	pv (osc -> calkowanie numer)
+	kepler (osc -> calkowanie numer)
+
+
+
+REENTRY
+-propagator 1 obiektu
+
+CA
+-propagacja 2 obiektow
+-sprawdzanie odleglosci miedzy nimi
+
+
+POROWNANIE ZE STOPEM!
+-dane orekit, dane stop
+-te same momenty czasu, roznica w przestrzeni

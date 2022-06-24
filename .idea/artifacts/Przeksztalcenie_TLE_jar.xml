@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Przeksztalcenie_TLE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Przeksztalcenie_TLE_jar</output-path>
+    <root id="archive" name="Przeksztalcenie_TLE.jar">
+      <element id="module-output" name="Przeksztalcenie_TLE" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/orekit/orekit/11.1.2/orekit-11.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hipparchus/hipparchus-core/2.1/hipparchus-core-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hipparchus/hipparchus-geometry/2.1/hipparchus-geometry-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hipparchus/hipparchus-ode/2.1/hipparchus-ode-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hipparchus/hipparchus-fitting/2.1/hipparchus-fitting-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hipparchus/hipparchus-optim/2.1/hipparchus-optim-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hipparchus/hipparchus-filtering/2.1/hipparchus-filtering-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hipparchus/hipparchus-stat/2.1/hipparchus-stat-2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
